@@ -1,1 +1,2 @@
-Created the main python file
+import stremlit
+stremlit.title('My parents New Diner')
