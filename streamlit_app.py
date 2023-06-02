@@ -61,7 +61,7 @@ streamlit.write('The user entered ', fruit_choice)
 
 #import snowflake.connector
 #dont add anything here
-streamlit.stop()
+#streamlit.stop()
 streamlit.header("The fruit list contains:")
 #snowflake related functions
 def get_fruit_load_list():
